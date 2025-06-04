@@ -1,4 +1,4 @@
-- This is just a demo code for testing using Unidepth model and YOLO, the official source code will be published after the competition "Thiết kế, sáng tạo sản phẩm, công nghệ dành cho người khuyết tật năm 2025" is completed.
+Note: This is just a demo code for testing using Unidepth model and YOLO, the official source code will be published after the competition "Thiết kế, sáng tạo sản phẩm, công nghệ dành cho người khuyết tật năm 2025" is completed.
 # FRONTEND
 
 - Frontend I use framework Flutter and code Dart. You can download IMAGES fischerscode/flutter:latest and install a container to run frontend
